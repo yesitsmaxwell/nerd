@@ -1,0 +1,16 @@
+{
+  "name": "nerd",
+  "productName": "nerd",
+  "description": "click me",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "yesitsmaxwell",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "24.1.2"
+  }
+}
